@@ -22,9 +22,9 @@
     $c2->a=50;
     $c2->b=10;
     
-    echo "sum is : ".$c1->sum()."\n";
+    echo "sum is : ".$c1->sum()."<br>";
 
-    echo "sum is : ".$c2->sum()."\n";
+    echo "sum is : ".$c2->sum()."<br>";
 
     echo "sub is : ". $c1->sub();
 ?>
